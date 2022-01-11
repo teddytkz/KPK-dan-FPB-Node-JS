@@ -1,10 +1,10 @@
 # KPK-dan-FPB-Node-JS
 
 ** Utama **
-Node.Js
+- Node.Js
 
 ** Package **
-Readline
+- Readline
 
 ### First Init
 Install Requirement
