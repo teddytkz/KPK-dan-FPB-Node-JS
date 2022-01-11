@@ -17,5 +17,3 @@ npm install
 ```bash
 node index.js
 ```
-
-Server Berjalan Di Port 5000
